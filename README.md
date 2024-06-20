@@ -15,7 +15,7 @@ Este é um projeto simples de gerenciamento de tarefas, desenvolvido em Python, 
 1. **Clonar o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/gerenciamento_tarefas.git
+   git clone https://github.com/Brunopln12/gerenciamento_tarefas.git
    cd gerenciamento_tarefas
    ```
 
@@ -84,10 +84,6 @@ Selecione a opção `ex` para excluir uma tarefa fornecendo o responsável e a d
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
