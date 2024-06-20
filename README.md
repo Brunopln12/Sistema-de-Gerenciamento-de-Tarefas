@@ -88,5 +88,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ---
 
 **Autor:** Bruno Pinho Lôbo Nascimento
-
-**Contato:** seu.email@exemplo.com
